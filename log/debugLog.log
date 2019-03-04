@@ -1,0 +1,86 @@
+2019-03-04 10:15:42  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:春意盎然, 客人要用刀叉吃
+2019-03-04 10:15:42  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道春意盎然
+2019-03-04 10:15:42  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:春意盎然, 客人要用刀叉吃
+2019-03-04 10:15:42  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道春意盎然
+2019-03-04 10:15:42  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道春意盎然
+2019-03-04 10:15:44  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道三宝鸭
+2019-03-04 10:15:44  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道三宝鸭
+2019-03-04 10:15:44  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道三宝鸭
+2019-03-04 10:15:45  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:春意盎然, 客人要用刀叉吃
+2019-03-04 10:15:45  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:三宝鸭, 客人要用刀叉吃
+2019-03-04 10:15:46  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道佛跳墙
+2019-03-04 10:15:46  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道佛跳墙
+2019-03-04 10:15:46  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道佛跳墙
+2019-03-04 10:15:48  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:三宝鸭, 客人要用筷子吃
+2019-03-04 10:15:48  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:三宝鸭, 客人要用刀叉吃
+2019-03-04 10:15:48  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道狮子头
+2019-03-04 10:15:48  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道狮子头
+2019-03-04 10:15:48  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道狮子头
+2019-03-04 10:15:50  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道黄陂三鲜
+2019-03-04 10:15:50  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道黄陂三鲜
+2019-03-04 10:15:50  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道黄陂三鲜
+2019-03-04 10:15:51  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:狮子头, 客人要用筷子吃
+2019-03-04 10:15:51  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:狮子头, 客人要用刀叉吃
+2019-03-04 10:15:52  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道蚂蚁上树
+2019-03-04 10:15:52  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道蚂蚁上树
+2019-03-04 10:15:52  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道蚂蚁上树
+2019-03-04 10:15:54  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:蚂蚁上树, 客人要用刀叉吃
+2019-03-04 10:15:54  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:蚂蚁上树, 客人要用筷子吃
+2019-03-04 10:15:54  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道西湖醋鱼
+2019-03-04 10:15:54  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道西湖醋鱼
+2019-03-04 10:15:54  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道西湖醋鱼
+2019-03-04 10:15:56  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道鲫鱼豆腐汤
+2019-03-04 10:15:56  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道鲫鱼豆腐汤
+2019-03-04 10:15:56  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道鲫鱼豆腐汤
+2019-03-04 10:15:57  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:鲫鱼豆腐汤, 客人要用筷子吃
+2019-03-04 10:15:57  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:蚂蚁上树, 客人要用刀叉吃
+2019-03-04 10:15:58  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道三丝鱼翅
+2019-03-04 10:15:58  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道三丝鱼翅
+2019-03-04 10:15:58  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道三丝鱼翅
+2019-03-04 10:16:00  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:鲫鱼豆腐汤, 客人要用刀叉吃
+2019-03-04 10:16:00  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:鲫鱼豆腐汤, 客人要用刀叉吃
+2019-03-04 10:16:00  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道云片猴头菇
+2019-03-04 10:16:00  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道云片猴头菇
+2019-03-04 10:16:00  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道云片猴头菇
+2019-03-04 10:16:02  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道剁椒鱼头
+2019-03-04 10:16:02  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道剁椒鱼头
+2019-03-04 10:16:02  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道剁椒鱼头
+2019-03-04 10:16:03  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:三丝鱼翅, 客人要用刀叉吃
+2019-03-04 10:16:03  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:云片猴头菇, 客人要用筷子吃
+2019-03-04 10:16:04  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道外婆菜
+2019-03-04 10:16:04  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道外婆菜
+2019-03-04 10:16:04  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道外婆菜
+2019-03-04 10:16:06  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:三丝鱼翅, 客人要用筷子吃
+2019-03-04 10:16:06  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:三丝鱼翅, 客人要用刀叉吃
+2019-03-04 10:16:06  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道拔丝芋头
+2019-03-04 10:16:06  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道拔丝芋头
+2019-03-04 10:16:06  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道拔丝芋头
+2019-03-04 10:16:08  INFO [pool-1-thread-2] (Mylog4j.java:20) - 厨师pool-1-thread-2做好了一道麻辣小龙虾
+2019-03-04 10:16:08  INFO [pool-1-thread-3] (Mylog4j.java:20) - 厨师pool-1-thread-3做好了一道麻辣小龙虾
+2019-03-04 10:16:08  INFO [pool-1-thread-1] (Mylog4j.java:20) - 厨师pool-1-thread-1做好了一道麻辣小龙虾
+2019-03-04 10:16:09  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:云片猴头菇, 客人要用刀叉吃
+2019-03-04 10:16:09  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:云片猴头菇, 客人要用筷子吃
+2019-03-04 10:16:12  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:剁椒鱼头, 客人要用筷子吃
+2019-03-04 10:16:12  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:剁椒鱼头, 客人要用刀叉吃
+2019-03-04 10:16:15  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:剁椒鱼头, 客人要用刀叉吃
+2019-03-04 10:16:15  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:外婆菜, 客人要用刀叉吃
+2019-03-04 10:16:18  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:外婆菜, 客人要用筷子吃
+2019-03-04 10:16:18  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:外婆菜, 客人要用刀叉吃
+2019-03-04 10:16:21  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:狮子头, 客人要用筷子吃
+2019-03-04 10:16:21  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:拔丝芋头, 客人要用筷子吃
+2019-03-04 10:16:24  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:拔丝芋头, 客人要用刀叉吃
+2019-03-04 10:16:24  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:麻辣小龙虾, 客人要用筷子吃
+2019-03-04 10:16:27  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:拔丝芋头, 客人要用刀叉吃
+2019-03-04 10:16:27  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:麻辣小龙虾, 客人要用刀叉吃
+2019-03-04 10:16:30  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:黄陂三鲜, 客人要用筷子吃
+2019-03-04 10:16:30  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:麻辣小龙虾, 客人要用筷子吃
+2019-03-04 10:16:33  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:黄陂三鲜, 客人要用刀叉吃
+2019-03-04 10:16:33  INFO [pool-2-thread-1] (Mylog4j.java:20) - 服务生pool-2-thread-1上了一道:黄陂三鲜, 客人要用筷子吃
+2019-03-04 10:16:37  INFO [pool-2-thread-3] (Mylog4j.java:20) - 服务生pool-2-thread-3上了一道:佛跳墙, 客人要用筷子吃
+2019-03-04 10:16:37  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:佛跳墙, 客人要用筷子吃
+2019-03-04 10:16:40  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:佛跳墙, 客人要用刀叉吃
+2019-03-04 10:16:40  INFO [pool-2-thread-3] (Mylog4j.java:20) - 服务生pool-2-thread-3上了一道:西湖醋鱼, 客人要用筷子吃
+2019-03-04 10:16:43  INFO [pool-2-thread-2] (Mylog4j.java:20) - 服务生pool-2-thread-2上了一道:西湖醋鱼, 客人要用刀叉吃
+2019-03-04 10:16:43  INFO [pool-2-thread-3] (Mylog4j.java:20) - 服务生pool-2-thread-3上了一道:西湖醋鱼, 客人要用刀叉吃
+2019-03-04 10:16:46  INFO [pool-2-thread-3] (Mylog4j.java:20) - 菜上完了
+2019-03-04 10:16:46  INFO [pool-2-thread-2] (Mylog4j.java:20) - 菜上完了
